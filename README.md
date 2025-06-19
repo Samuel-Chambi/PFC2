@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Deteccion de fraudes en transacciones de tarjetas de credito
 
 ## 📌 Descripción del Proyecto  
 Sistema de detección de fraude en transacciones con tarjetas de crédito implementando técnicas de *machine learning* para identificar transacciones fraudulentas en un dataset altamente desbalanceado.
