@@ -17,3 +17,4 @@ Sistema de detección de fraude en transacciones con tarjetas de crédito implem
   - `Class`: Variable objetivo (0 = normal, 1 = fraudulenta)
 
 ## Resultados de Ejecucion
+![Composicion del Dataset](image/composicion.png)
